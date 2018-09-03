@@ -1,0 +1,12 @@
+
+{
+
+
+	"python_interpreter": "D:/Anaconda3/python.exe",
+//	"python_interpreter": "D://Anaconda3//Scripts//ipython.exe",
+	"suppress_word_completions":true,
+	"suppress_explicit_completions":true,
+	"anaconda_linting": false,
+//	"complete_parameters":true
+}
+
